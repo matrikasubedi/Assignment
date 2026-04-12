@@ -1,2 +1,2 @@
 # Assignment
-This folder contains all assignment.
+This folder contains all assignments.
